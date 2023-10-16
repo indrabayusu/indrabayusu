@@ -38,7 +38,7 @@ I have a solid understanding in the fields of Web Development and Software Quali
 ![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/-NySQL-181717?style=for-the-badge&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-181717?style=for-the-badge&logo=postman)
-![Karate Framework](https://img.shields.io/badge/-Karate-181717?style=for-the-badge&logo=karate)
+![Karate Framework](https://img.shields.io/badge/-Karate%20Framework-181717?style=for-the-badge&logo=karate)
 ![Selenium Webdriver](https://img.shields.io/badge/-Selenium-181717?style=for-the-badge&logo=selenium)
 ![Jira](https://img.shields.io/badge/-Jira-181717?style=for-the-badge&logo=jira)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=100000)
@@ -46,14 +46,14 @@ I have a solid understanding in the fields of Web Development and Software Quali
 
 ## 🔗Connect
 <p>
-    <a href="https://www.linkedin.com/in/indrabayusu" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.facebook.com/indrabayusu/" target="blank"><img src="https://img.shields.io/badge/-Facebook-181717?style=for-the-badge&logo=facebook&logoColor=1877F2" /></a>
-    <a href="https://www.instagram.com/indrabayusu/" target="blank"><img src="https://img.shields.io/badge/-Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+    <a href="https://www.linkedin.com/in/indrabayusu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.facebook.com/indrabayusu/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-181717?style=for-the-badge&logo=facebook&logoColor=1877F2" /></a>
+    <a href="https://www.instagram.com/indrabayusu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
     <a href="https://www.indrabayusu.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio%20Website-181717?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
 </p>
 
 
 ## 📝Contact me!
 <p>
-    <a href="mailto: indrabayusetiadiutomo@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="mailto:indrabayusetiadiutomo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
