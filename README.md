@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello everyone 👋 , I'm Indra!
+# Hi there 👋 , I'm Indra!
 I have a solid understanding in the fields of Web Development and Software Quality Assurance. I am skilled in web programming languages, including HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, PHP, and MySQL. Additionally, I possess the ability to conduct both Manual and Automation Web Testing using Selenium with Java. Furthermore, I have knowledge in API Testing with Postman and Karate Framework. The amalgamation of my knowledge in web development and software testing enables me to support projects by ensuring software quality and efficient development.
 
 # Table of contents
